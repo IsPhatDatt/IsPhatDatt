@@ -5,7 +5,7 @@
 
 - ✍ I'm a student of: [Ho Chi Minh City Open University](https://ou.edu.vn) (HCMCOU).
 
-- 🌱 I’m currently learning **MERN Stack.**
+- 🌱 I’m currently learning **Fullstack**
 
 
 ## 📫 How to reach me:
