@@ -39,6 +39,7 @@
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
   <img width="48" height="48" src="https://img.icons8.com/plasticine/100/react.png" alt="react"/>
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/angularjs.png" alt="angularjs"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio--v2.png" alt="visual-studio--v2"/>
 </p>
 
 <table style="width:100%;">
