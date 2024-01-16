@@ -34,7 +34,7 @@
   <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
   <img width="40" height="40" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png"/>
   <img src="https://img.icons8.com/color/48/000000/git.png"/>
-  <img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/24/external-github-community-for-software-building-and-testing-online-logo-bold-tal-revivo.png" alt="external-github-community-for-software-building-and-testing-online-logo-bold-tal-revivo"/>
+  <img width="50" height="50" src="https://img.icons8.com/officel/16/github.png" alt="github"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-2019.png"/>
 </p>
