@@ -38,6 +38,7 @@
   <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
   <img width="48" height="48" src="https://img.icons8.com/plasticine/100/react.png" alt="react"/>
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/angularjs.png" alt="angularjs"/>
 </p>
 
 <table style="width:100%;">
