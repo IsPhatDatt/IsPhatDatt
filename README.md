@@ -47,6 +47,9 @@
 </p>
 
 <table style="width:100%;">
+  <p align="center">
+<img width=50% height=50% src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fseetong.vn%2Fhoang-sa-truong-sa-la-cua-viet-nam%2F&psig=AOvVaw3rYbTRfDPSEEiIxxAromGz&ust=1705492822405000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKC20f_t4YMDFQAAAAAdAAAAABAD" alt="Chứng chỉ R2S Java"/>
+</p>
 <!--   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiennhm&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="tiennhm" width="100%"/>
