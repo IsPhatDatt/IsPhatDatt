@@ -61,6 +61,4 @@
 </table>
 
 # Certificates:
-<body>
-<iframe src="https://drive.google.com/file/d/1dsLwFUuGIrqd_0W0LXOOIjs1CJ-2XkU2/preview" width="640" height="480" allow="autoplay"></iframe>
-</body>
+<p align="center"><a><img src="https://drive.google.com/file/d/15YrcT4lEXn1t6KByP8tA-ddfM6Y0ZcpI/view?usp=drive_link">"/></a></p>
