@@ -61,6 +61,7 @@
 </table>
 
 # Certificates:
-<p align="center"></p>
+<p align="center">
 <img src="https://scontent.fsgn2-8.fna.fbcdn.net/v/t39.30808-6/419593633_1905242259912200_2080946229106049279_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=3635dc&_nc_ohc=L3cvQDam3JIAX8mOpPc&_nc_ht=scontent.fsgn2-8.fna&oh=00_AfAWOMLXn0a3lB4NFIzoIR2a2TmMKwKYxPJW1y2OKevHPw&oe=65AAD0A4" alt="Chứng chỉ R2S"/>
+</p>
 
