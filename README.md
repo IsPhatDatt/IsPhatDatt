@@ -16,7 +16,7 @@
   <a href="https://www.facebook.com/lephatdat.phatdatt" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a> 
-  <a href="https://github.com/PhatDattt" alt="Github">
+  <a href="https://github.com/IsPhatDatt" alt="Github">
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
   </a> 
   <a href="https://www.youtube.com/channel/UC5HsVn49YyfdZ2HdXEqslog" alt="Youtube channel" target="_blank" >
