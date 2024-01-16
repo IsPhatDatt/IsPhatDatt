@@ -61,4 +61,4 @@
 </table>
 
 # Certificates:
-<iframe src="https://drive.google.com/file/d/1dsLwFUuGIrqd_0W0LXOOIjs1CJ-2XkU2/view?usp=drive_link" width="100%" height="500px"></iframe>
+<iframe src="https://drive.google.com/file/d/1dsLwFUuGIrqd_0W0LXOOIjs1CJ-2XkU2/preview" width="640" height="480" allow="autoplay"></iframe>
