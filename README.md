@@ -61,4 +61,6 @@
 </table>
 
 # Certificates:
-<p align="center"><a><img src="https://drive.google.com/file/d/15YrcT4lEXn1t6KByP8tA-ddfM6Y0ZcpI/view?usp=drive_link">"/></a></p>
+<p align="center"></p>
+<img width="48" height="48" src="[https://img.icons8.com/color/48/intellij-idea.png](https://drive.google.com/file/d/15YrcT4lEXn1t6KByP8tA-ddfM6Y0ZcpI/view?usp=sharing)https://drive.google.com/file/d/15YrcT4lEXn1t6KByP8tA-ddfM6Y0ZcpI/view?usp=sharing" alt="intellij-idea"/>
+
