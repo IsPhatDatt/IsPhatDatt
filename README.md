@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Phát Đạt</h1>
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
 <p align="center">
-    <img width=10% height=10% src="https://seetong.vn/wp-content/uploads/2023/07/vector-ban-do-viet-nam-quan-dao-hoang-sa-truong-sa-574.webp" alt="Vietnam map"/>
+    <img width=15% height=15% src="https://seetong.vn/wp-content/uploads/2023/07/vector-ban-do-viet-nam-quan-dao-hoang-sa-truong-sa-574.webp" alt="Vietnam map"/>
 </p>
 <h3 align="center">A passionate developer from Vietnam </h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=phatdattt" alt="phatdattt" /> <img src="https://badges.pufler.dev/repos/PhatDattt" alt="phatdattt" /> </p>
@@ -49,11 +49,7 @@
   <img width="48" height="48" src="https://img.icons8.com/color/48/intellij-idea.png" alt="intellij-idea"/>
 </p>
 
-## Vietnam map:
 <table style="width:100%;">
-  <p align="center">
-    <img width=20% height=20% src="https://seetong.vn/wp-content/uploads/2023/07/vector-ban-do-viet-nam-quan-dao-hoang-sa-truong-sa-574.webp" alt="Vietnam map"/>
-  </p>
 <!--   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiennhm&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="tiennhm" width="100%"/>
