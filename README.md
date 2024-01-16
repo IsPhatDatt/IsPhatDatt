@@ -46,9 +46,10 @@
   <img width="48" height="48" src="https://img.icons8.com/color/48/intellij-idea.png" alt="intellij-idea"/>
 </p>
 
+## Vietnam map:
 <table style="width:100%;">
   <p align="center">
-<img width=50% height=50% src="https://seetong.vn/wp-content/uploads/2023/07/vector-ban-do-viet-nam-quan-dao-hoang-sa-truong-sa-574.webp" alt="Vietnam map"/>
+<img width=20% height=20% src="https://seetong.vn/wp-content/uploads/2023/07/vector-ban-do-viet-nam-quan-dao-hoang-sa-truong-sa-574.webp" alt="Vietnam map"/>
 </p>
 <!--   <tr>
     <td>
