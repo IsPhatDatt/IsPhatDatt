@@ -35,7 +35,7 @@
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/docker.png" alt="docker"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/spring-logo.png" alt="spring-logo"/>
-  <img width="35" height="35" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png"/>
+  <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" alt="external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo"/>
   <img src="https://img.icons8.com/color/48/000000/git.png"/>
   <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="github"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
